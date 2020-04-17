@@ -1,0 +1,9 @@
+C:\Users\antonia\Source\Repos\EJ_GUIA_L3.3\EJ_GUIA_L3.3\obj\Debug\EJ_GUIA_L3.3.csprojAssemblyReference.cache
+C:\Users\antonia\Source\Repos\EJ_GUIA_L3.3\EJ_GUIA_L3.3\obj\Debug\EJ_GUIA_L3._3.Properties.Resources.resources
+C:\Users\antonia\Source\Repos\EJ_GUIA_L3.3\EJ_GUIA_L3.3\obj\Debug\EJ_GUIA_L3.3.csproj.GenerateResource.cache
+C:\Users\antonia\Source\Repos\EJ_GUIA_L3.3\EJ_GUIA_L3.3\bin\Debug\EJ_GUIA_L3.3.exe.config
+C:\Users\antonia\Source\Repos\EJ_GUIA_L3.3\EJ_GUIA_L3.3\bin\Debug\EJ_GUIA_L3.3.exe
+C:\Users\antonia\Source\Repos\EJ_GUIA_L3.3\EJ_GUIA_L3.3\bin\Debug\EJ_GUIA_L3.3.pdb
+C:\Users\antonia\Source\Repos\EJ_GUIA_L3.3\EJ_GUIA_L3.3\obj\Debug\EJ_GUIA_L3._3.Form1.resources
+C:\Users\antonia\Source\Repos\EJ_GUIA_L3.3\EJ_GUIA_L3.3\obj\Debug\EJ_GUIA_L3.3.exe
+C:\Users\antonia\Source\Repos\EJ_GUIA_L3.3\EJ_GUIA_L3.3\obj\Debug\EJ_GUIA_L3.3.pdb
